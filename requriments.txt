@@ -1,0 +1,8 @@
+opencv-python
+gym[all]
+pyglet
+pillow
+tensorflow==2.2.0
+Keras==2.2.0
+pyopeng
+boto3
