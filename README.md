@@ -1,4 +1,8 @@
 # Analytics-4
+
+## About 
+AWS DeepRacer is a 1/18th scale race car which gives you an interesting and fun way to get started with reinforcement learning (RL). With AWS DeepRacer, you now have a way to get hands-on with RL, experiment, and learn through autonomous driving. You can get started with the virtual car and tracks in the cloud-based 3D racing simulator. For a real-world experience, you can deploy your trained models onto AWS DeepRacer and race in the global AWS DeepRacer league, the world’s first global autonomous racing league for developers.
+
 ## Steps to deploy DeepRacer 
 1. Sign into the console
 2. Click the Get Started / Create Model button on the right
