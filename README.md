@@ -18,6 +18,10 @@ This causes training to cease, whether it's time-based, an action, or other opti
 
 * Note: While the evaluation job is running, watch the live results in the simulator. Remember to look at what your car seems to be doing well versus not so well.
 
+## clone Model 
+From the Action dropdown, select Clone.
+Use the previous experiences(Model)
+
 ## Download 
 Click Download model. The downloaded file will reference the name of your model with the
 
